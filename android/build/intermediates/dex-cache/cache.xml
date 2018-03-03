@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\da1220c77da61805ab43eaacbf5cc87c2a9323d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\classes_6c0733f0ba514f9c31eac4bd2d57c7bf188ba881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\742255b7626f457d6e1456c71f618b95eacab978\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\classes_62f6ba8cdd88975b7877589cc05c73d146da82ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\7923e0d26e2680aa1a530d103dbb07a7ab9a65a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\classes_65f8788b61c5694ed002cfb6b49412ce3cae9872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_08d85f4c9f2aa80e8e67d0889d8f7bd9cb4b6047.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_187badd7987523eb41eaeb70774c90ec42f38197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_c8c9a68f831bb3f53e79d5a9cf98eafcf1e49929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\d64dde59f5fc4a00389163e214c004e2b0a53e0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\classes_ad7e0b1029bbcd705d669ffe76f6c733e9b2cf72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_51fc79f0096bdc04476b7ca49fc1dfe267becdbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\a59e5d5e08cfa755d7e0b0b806aa1e088ed89507\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_04ea9a23f73a6b30c3f962536f17e817016bde6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\41fb07733391a59d9f95b181ce0420aa95a7754e\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_518b7f4e83ef40ababfd285037b58b2099862a36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\ddb72091a115a0a7e97476763c184db8a9c5596d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\classes_2c20267831118361507455f0126302c5e853aa8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\41fb07733391a59d9f95b181ce0420aa95a7754e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b10dbbde42a49bc34c61b5e6fdd88845fe9c29d5">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\classes_0c67227ba84de02fd95edd5af8635b6622021597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\a59e5d5e08cfa755d7e0b0b806aa1e088ed89507\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\classes_b5b35837fdc7c6068ddb2abeab6f663e27f51f31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\844ba047625113d7b10bd72738d59427154921c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\classes_87589ced11d74281c76e5d591073e0382686dca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_d986485560a9c8f1a61ab68fcc48247fc9dc0afe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_4cc991842c9a74f23b51e4854f4b07da9961ca50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\c7f8cb9acfc346eb81fed6eba773a1ee8fbc0dd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\classes_be68072bf7e7c338c47fb53c4329d103cc3d54c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_f09b32a49210d2e724f68e6214c2f39ded139e10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_dc5845797020beedbb25a767e39e1820dfdd6101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\9868282a5650fd7cccafb344cf94aaeca3715847\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\classes_2648c730f6560d73ca82d3e58499efc9d03c8156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\ef624af6d7620b06bff5c733e4cecd50c0787a56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\petia\Desktop\GoNative\teste\android\app\build\intermediates\pre-dexed\debug\classes_71af1dcf2b7f68bfff0f431bc48f63afc83e6e47.jar" />
+    </item>
+
+</items>
